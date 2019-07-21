@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageModule", "MessageModule\MessageModule.csproj", "{DD4A5F56-B701-4BBB-9975-E6863A8A05F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4A5F56-B701-4BBB-9975-E6863A8A05F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4A5F56-B701-4BBB-9975-E6863A8A05F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4A5F56-B701-4BBB-9975-E6863A8A05F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4A5F56-B701-4BBB-9975-E6863A8A05F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5FED7C-1FB3-48F2-B04C-0BB775FDF13C}
+	EndGlobalSection
+EndGlobal
